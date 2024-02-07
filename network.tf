@@ -1,4 +1,4 @@
-module "linux-vm" {
+module "network" {
   source = "./modules/network"
 
 }
